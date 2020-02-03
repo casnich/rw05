@@ -1,0 +1,7 @@
+==================================================
+Instructions for running escl8r on the Catalina OS
+==================================================
+
+First, `cd` into the directory where the `escl8r` executable is located. Ensure that the file path within the executable to the file `font.dat` (located in `rw05/font`) is correct. Then run `./escl8r` to start the program and follow the on-screen prompts. 
+
+Remember that all filepaths must be entered relative to the working directory from which you started escl8r.
